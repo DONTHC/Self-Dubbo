@@ -1,0 +1,1 @@
+loadBalance=cn.hc.loadbalance.loadbalancer.ConsistentHashLoadBalance
